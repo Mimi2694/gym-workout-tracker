@@ -10,6 +10,7 @@ Bassam
 
 Hisham
 
+Abdella mallek
 Project Overview:
 
 The FitTrack Pro – Gym & Workout Tracker System is designed to help users track their workouts, exercises, and fitness progress efficiently.
