@@ -1,0 +1,20 @@
+DemoPlan.md 
+
+# Demo Plan - FitTrack Pro MVP
+
+We will demonstrate:
+
+1. Running system
+   - Open MainApp.java in VS Code or IDE
+   - Run the program
+   - Click the Login button to show the GUI works
+
+2. GitHub Repository
+   - Show repo structure and commits
+
+3. CI/CD Pipeline
+   - Show Actions tab in GitHub
+   - Workflow compiles MainApp.java on push
+
+4. Project Board
+   - Show Jira board with tasks, assignments, and teacher as watcher
